@@ -1,0 +1,6 @@
+C:\data\Projects\GitRepos\Entropy\JChiSquare\bin\Release\JChiSquare.exe.config
+C:\data\Projects\GitRepos\Entropy\JChiSquare\bin\Release\JChiSquare.exe
+C:\data\Projects\GitRepos\Entropy\JChiSquare\bin\Release\JChiSquare.pdb
+C:\data\Projects\GitRepos\Entropy\JChiSquare\obj\Release\JChiSquare.csprojResolveAssemblyReference.cache
+C:\data\Projects\GitRepos\Entropy\JChiSquare\obj\Release\JChiSquare.exe
+C:\data\Projects\GitRepos\Entropy\JChiSquare\obj\Release\JChiSquare.pdb
