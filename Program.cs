@@ -34,6 +34,7 @@ namespace JChiSquare
         /// <returns>chi</returns>
         public static double ChiSquare(string filename)
         {
+            // this limits the sample size to 13K.  remove this to use entire file
             int SampleSize = 13 * 1024;
             int bufferLength = SampleSize;
             double Expected = SampleSize / 256;  
